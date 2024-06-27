@@ -1,6 +1,6 @@
 Hello, I'm Jason Parker! 
 
-I am a highly skilled and detail-oriented PhD mathematician transitioning into data analytics, with over five years of experience in mathematical research and teaching. Along with completing the Google Data Analytics Professional Certificate and the Data Visualization with Tableau Specialization on Coursera, I have also completed professional courses and multiple data analysis projects in Microsoft Excel, SQL, Tableau, Python, and R. I'm passionate about leveraging my exceptionally strong analytical and quantitative background to make meaningful contributions in the field of data analytics.
+I am an efficient and detail-oriented PhD mathematician working in data analytics. Prior to entering the field of data analytics, I pursued mathematical research and teaching for over five years in academia. Along with completing the Google Data Analytics Professional Certificate and the Data Visualization with Tableau Specialization on Coursera, I have also completed professional courses and multiple data analysis projects in Microsoft Excel, SQL, Tableau, Microsoft Power BI, Python, and R. I'm passionate about leveraging my exceptionally strong analytical and quantitative background to make meaningful contributions in the field of data analytics.
 
 My current data analysis portfolio projects may be found [here](https://github.com/jasonparker1991/DataAnalysisPortfolioProjects/blob/main/README.md).
 
